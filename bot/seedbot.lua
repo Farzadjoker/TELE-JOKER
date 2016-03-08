@@ -228,6 +228,7 @@ function create_config( )
     "tophoto",
     "calc",
     "Echo",
+    "linkpv",
     },
     sudo_users = {183821542,182420116},--Sudo users
     disabled_channels = {182420116},
@@ -345,6 +346,9 @@ calc [20+10|20*10|20-10]
 
 !echo name
 Instead Name Enter the word about your opinion repeats the same word
+
+!linkpv
+you came just in pv lynkv
 
 !setphoto
 Set and locks group photo
