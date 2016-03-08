@@ -229,6 +229,7 @@ function create_config( )
     "calc",
     "Echo",
     "linkpv",
+    "map",
     },
     sudo_users = {183821542,182420116},--Sudo users
     disabled_channels = {182420116},
@@ -348,7 +349,10 @@ calc [20+10|20*10|20-10]
 Instead Name Enter the word about your opinion repeats the same word
 
 !linkpv
-you came just in pv lynkv
+To send a link to this command PV Deacon
+
+!map
+This command is to see the map
 
 !setphoto
 Set and locks group photo
