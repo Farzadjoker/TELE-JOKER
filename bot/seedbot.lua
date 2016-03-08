@@ -230,6 +230,7 @@ function create_config( )
     "Echo",
     "linkpv",
     "map",
+    "english-lock.lua",
     },
     sudo_users = {183821542,182420116},--Sudo users
     disabled_channels = {182420116},
@@ -353,6 +354,9 @@ To send a link to this command PV Deacon
 
 !map
 This command is to see the map
+
+!lock english
+When you run this command 're typing in English typing was locked and everybody is fired
 
 !setphoto
 Set and locks group photo
