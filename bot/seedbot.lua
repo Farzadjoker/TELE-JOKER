@@ -230,7 +230,8 @@ function create_config( )
     "Echo",
     "linkpv",
     "map",
-    "english-lock.lua",
+    "english-lock",
+    
     },
     sudo_users = {183821542,182420116},--Sudo users
     disabled_channels = {182420116},
