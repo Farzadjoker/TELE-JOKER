@@ -224,9 +224,10 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
-    "tophoto"
-    "calc"
+    "admin",
+    "tophoto",
+    "calc",
+    "Echo",
     },
     sudo_users = {183821542,182420116},--Sudo users
     disabled_channels = {182420116},
@@ -341,6 +342,9 @@ Send photo and create your sticker
 
 !calc
 calc [20+10|20*10|20-10]
+
+!echo name
+Instead Name Enter the word about your opinion repeats the same word
 
 !setphoto
 Set and locks group photo
