@@ -231,6 +231,7 @@ function create_config( )
     "linkpv",
     "map",
     "english-lock",
+    "addplug",
     
     },
     sudo_users = {183821542,182420116},--Sudo users
@@ -299,6 +300,8 @@ Only sudo users can run this command
 !bc [group_id] [text]
 !bc 123456789 Hello !
 This command will send text to [group_id]
+
+!addplugin Des Des.lua
 
 
 **U can use both "/" and "!" 
