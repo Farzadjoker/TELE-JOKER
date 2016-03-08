@@ -226,6 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     "tophoto"
+    "calc"
     },
     sudo_users = {183821542,182420116},--Sudo users
     disabled_channels = {182420116},
@@ -356,7 +357,7 @@ Will kick user
 Group description
 
 !createsticker
-Stickertophoto
+
 
 !setphoto
 Set and locks group photo
