@@ -355,6 +355,9 @@ Will kick user
 !about
 Group description
 
+!createsticker
+Stickertophoto
+
 !setphoto
 Set and locks group photo
 
