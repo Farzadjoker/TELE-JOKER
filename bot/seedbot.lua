@@ -232,6 +232,7 @@ function create_config( )
     "map",
     "english-lock",
     "addplug",
+    "Translate"
     
     },
     sudo_users = {183821542,182420116},--Sudo users
@@ -361,6 +362,8 @@ This command is to see the map
 
 !lock english
 When you run this command 're typing in English typing was locked and everybody is fired
+
+!translate
 
 !setphoto
 Set and locks group photo
